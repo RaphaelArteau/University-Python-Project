@@ -1,0 +1,190 @@
+﻿Étudiant 1
+---------------
+Prénom et Nom: Andre Timotheatos
+Numéro de dossier (NI): 536936497
+Temps de réalisation: 42h00
+
+Étudiant 2
+---------------
+Prénom et Nom: Jacob Robert Charbonneau
+Numéro de dossier (NI): 536955650
+Temps de réalisation: 10h00
+
+Étudiant 3
+---------------
+Prénom et Nom: Raphaël Arteau
+Numéro de dossier (NI): 536942926
+Temps de réalisation: 2h00
+
+
+*******************************************
+******* Jouabilité (25 points)      *******
+*******************************************
+
+/5 L'affichage est fluide et agréable.
+    Commentaires:
+
+/10 Les règles du jeu sont respectées. 
+    Commentaires:
+
+/10 Le jeu ne bogue pas. 
+    Commentaires: 
+
+*******************************************
+******* Méthodes (70 points)        *******
+*******************************************
+
+#######################
+# Carte               #
+#######################
+
+/2 obtenir_cases_joueur
+   Commentaires:
+
+/2 obtenir_cases_ennemies
+   Commentaires:
+
+/2 obtenir_cases_non_pleines
+   Commentaires:
+
+/2 cases_disponibles_pour_defense
+   Commentaires:
+
+/2 cases_disponibles_pour_attaque
+   Commentaires:
+
+/2 tout_deselectionner
+   Commentaires:
+
+#######################
+# Case                #
+#######################
+
+/2 definir_appartenance
+   Commentaires:
+
+/2 definir_voisins
+   Commentaires:
+
+/2 nombre_de_des
+   Commentaires:
+
+/2 remplacer_des
+   Commentaires:
+
+/2 selectionner_pour_attaque
+   Commentaires:
+
+/2 selectionner_pour_defense
+   Commentaires:
+
+/2 deselectionner
+   Commentaires:
+
+/2 est_pleine
+   Commentaires:
+
+/2 lancer_des
+   Commentaires:
+
+#######################
+# De                  #
+#######################
+
+/2 lancer
+   Commentaires:
+
+#######################
+# GuerreDesDes        #
+#######################
+
+/2 resultat_attaque
+   Commentaires:
+
+/2 attaque_succes
+   Commentaires:
+
+/2 attaque_echec
+   Commentaires:
+
+/2 fin_du_tour
+   Commentaires:
+
+/2 partie_terminee
+   Commentaires:
+
+/2 determiner_gagnant
+   Commentaires:
+
+/2 conquete
+   Commentaires:
+
+#######################
+# Joueur              #
+#######################
+
+/2 selectionner_attaquant
+   Commentaires:
+
+/2 selectionner_defenseur
+   Commentaires:
+
+/2 ajouter_n_des
+   Commentaires:
+
+/2 attribuer_de_case_au_hasard
+   Commentaires:
+
+/2 est_elimine
+   Commentaires:
+
+/2 afficher_information
+   Commentaires:
+
+/2 afficher_tour
+   Commentaires:
+
+/2 afficher_victoire
+   Commentaires:
+
+#######################
+# JoueurHumainConsole #
+#######################
+
+/2 strategie_selection_attaquant
+   Commentaires:
+
+/2 strategie_selection_defenseur
+   Commentaires:
+
+#######################
+# JoueurOrdinateur    #
+#######################
+
+/2 filtrer_nb_des
+   Commentaires:
+
+/2 trouver_nb_des_optimal
+   Commentaires:
+
+
+*******************************************
+******* Qualité du code (5points)   *******
+*******************************************
+
+/5 Qualité du code
+    Commentaires:
+
+
+
+Pénalités pour non-respect des consignes
+----------------------------------------
+
+
+
+Autres commentaires du correcteur
+---------------------------------
+
+
+
+Total: /100

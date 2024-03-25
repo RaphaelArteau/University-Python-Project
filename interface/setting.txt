@@ -1,0 +1,1 @@
+{"zoom_recursif": 1, "bg_color": "#076AE1", "fg_color": "black", "red_bull": 1, "advanced_player_control": 0, "red_bull_required": "3", "war_mode": 0, "easter_eggs": 0}

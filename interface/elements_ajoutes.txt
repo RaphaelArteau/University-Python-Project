@@ -1,0 +1,40 @@
+Ajustement automatique des cases ainsi que de la fenêtre de jeu.
+Ajustement de la position de la fenêtre sur l'écran d'ordinateur.
+Cases clignotantantes au lieu des cadres pour les cases attaques et défensives.
+Ajout d'un frame message ainsi que label d'affichage. Des messages s'affiche en fonction d'une victoire ou d'une défaite.
+Ajout du message d'attaque et de défense avec les images d'épées, de bouclier et de dés.
+Ajout d'un bouton scale entre 10 et 500 ainsi que la vitesse du joueur ordinateur.
+Modification des joueurs affichés (rectangle affiche la couleur du joueur actuel).
+Alignement des options vers la gauche.
+Ajout du zoom récursif (possibilité de le mettre ON/OFF)
+Bouton "commencer" fonctionnel seulement si l'utilisateur répond aux critères.
+Ratio de 0.4 pour la largeur et la longueur
+Ajout du nombre minimal et maximal pour la dimension de la carte
+Ajout des barres d'énergies pour les joueurs.
+- Ajout de 4 attaques spéciales
+  - ennemi saute son tour
+  - explose case ennemie
+  - voler case ennemie
+  - voler dés ennemis
+Ajout d'un bouton 'recommencer' pour que le joueur puisse faire une nouvelle partie.
+Ajout de valeurs initiales (joueurs et cases) afin que le joueur puisse commencer une partie rapidement.
+Ajout d'une musique de fond
+-possibilité de mettre en pause la musique
+-possibilité de revenir à la musique précedente
+-possibilité de passer à la musique suivante
+-possibilité de recommencer la musique
+-possibilité de modifier le volume de la musique (slider)
+Amélioration de l'intelligence artificielle.
+-Ajouts de différents niveau d'IA (faible, moyen, élevé)
+probabilité de réussite d'une attaque sur les cases défenses voisines à la case attaque sélectionnée
+Sauvegarde des paramètres
+Modification de la fenêtre d'acceuil (logo et autres)
+Modification de la fenêtre <paramètres de la partie>.
+Modification de la fenêtre <Sélection des joueurs>
+Ajout des boutons en cylindre
+Ajout du mode easter eggs
+- Plusieurs ajouts cachés dans celui-ci, à vous de les découvrir!
+Ajout de plusieurs modules.py
+Ajout d'un bouton (grenade ou settings) pour les options plus avancés du jeu.
+Option avancé permet au joueur d'ajuster le niveau de IA.
+Option avancé permet au joueur de changer les images d'attaques ainsi que ceux de la défense (épées --> tank, bouclier --> explosion)
